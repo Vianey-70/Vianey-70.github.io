@@ -1,0 +1,45 @@
+*{
+    font-family: "Karla", sans-serif;
+
+}
+header{
+background-color: #B5C18E
+;
+}
+
+header span{
+    color: #111010;
+    
+    }
+.nav-item a{
+    color:  #0a0a0a;
+    
+    }
+    
+
+        .nav-item a:visited{
+            color:  #fffdfd;
+            
+            } 
+            .nav-item a:hover{
+                color:  #630f02;
+                
+                } 
+    
+ #nav-butoon{
+   background-color:  #F4CE14;
+    
+    } 
+
+   .imagen{
+background-image: url('imagenes/clon.png');
+
+background-size: contain;
+
+     } 
+     .imagen2{
+        background-image: url('imagenes/pagina.png');
+      
+        background-size: contain;
+       
+             } 
