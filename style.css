@@ -43,3 +43,20 @@ background-size: contain;
         background-size: contain;
        
              } 
+
+footer{
+background-color: #FFEBD4;
+
+} 
+
+footer .icon-footer i{
+
+    color:#F0A8D0 ;
+}
+
+footer p{
+    color:#F0A8D0 ;
+}   
+footer p a{
+       color:#F0A8D0 ;
+}
