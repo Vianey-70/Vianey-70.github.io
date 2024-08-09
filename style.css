@@ -3,7 +3,7 @@
 
 }
 header{
-background-color: #B5C18E
+background-color:  #e15ba4;
 ;
 }
 
@@ -60,3 +60,7 @@ footer p{
 footer p a{
        color:#F0A8D0 ;
 }
+#app{
+    color :#e15ba4 ;
+}
+
